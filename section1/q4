@@ -1,6 +1,0 @@
-// * 가장 짧은 문자거리
-// 문자열 s와 문자 t가 주어진다. 문자열과 문자는 소문자로만 주어집니다. 문자열의 길이는 100을 넘지 않는다.
-function solution(s, t) {}
-
-let str = 'teachermode';
-console.log(solution(str, 'e'));
